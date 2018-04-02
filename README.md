@@ -10,8 +10,8 @@
 #	7. Vul de interval in (0.05 is aangeraden)
 #
 #NOTES
-#	-Als er bijzondere tekens in een vocab staan zoals é, è, ê of een apostrof ('), moet dat woord vervangen worden met twee lege #lines (twee keer enter).
-#		Je kan dit vermijden bij lange woorden, door het eind van het woord incl. de apostrof weg te halen (bv. raceauto's > #raceauto) (workbook rekent dit goed vanwege raceauto+)
+#	-Als er bijzondere tekens in een vocab staan zoals é, è, ê of een apostrof ('), moet dat woord vervangen worden met twee lege lines (twee keer enter).
+#		Je kan dit vermijden bij lange woorden, door het eind van het woord incl. de apostrof weg te halen (bv. raceauto's > raceauto) workbook rekent dit goed vanwege raceauto+)
 #	
 #	-Voor de interval moet een punt (.) gebruikt worden in een cijfer (0.05)
 #	
